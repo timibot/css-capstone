@@ -43,3 +43,8 @@ h2, h3, h4, p, .text-body-secondary {
 .text-body-emphasis {
     color: #F5A528 !important;
 }
+@media (max-width: 992px) {
+    .my-image {
+        height: 0px;
+    }
+}
